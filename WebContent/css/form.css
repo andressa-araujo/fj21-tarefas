@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+      .login{
+      text-align: center;
+      background: #fff;
+      width:40%;
+      heigth:40%;
+      border-radius:12px;
+      border:1px black solid;
+      margin: 20% auto;
+      }
+      
+      .form {
+      margin:10%;
+      }

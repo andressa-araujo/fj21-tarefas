@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+
+alter {
+  font: 75%/1.6 "Myriad Pro", Frutiger, "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
+		}
+		table {
+		  border-collapse: collapse;
+		  width: 50em;
+		  border: 1px solid #666;
+		}
+		
+		tr:hover {
+		  background-color:#3d80df;
+		  color: #fff;
+		}
+		
+		tr:nth-child(even) {
+		    background-color: #edf5ff;
+		}
+		th {
+		  font-weight: normal;
+		  text-align: left;
+		}
+		th, td {
+		  padding: 0.1em 1em;
+} 
+
+.av {
+    padding:5px;
+    background-color:#036;
+    border:1px solid #000;
+    color:#fff;
+    font-weight:bold;
+    text-decoration: none;
+    border-radius:12px;
+}
